@@ -1,0 +1,3 @@
+- git: {local-name: universal_robot, uri: 'https://github.com/jacknlliu/universal_robot'}
+- git: {local-name: ur_modern_driver, uri: 'https://github.com/jacknlliu/ur_modern_driver'}
+- git: {local-name: seds-ros, uri: 'https://github.com/jacknlliu/seds-ros'}
