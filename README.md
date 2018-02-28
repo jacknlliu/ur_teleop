@@ -17,3 +17,6 @@ roslaunch ur_modern_driver urXX_bringup.launch robot_ip:=ROBOT_IP_ADDRESS
 # Run teleoperation node
 rosrun ur_teleop listener
 ```
+
+# More details
+**NOTE:** currently this repo uses UR velocity control mode as default.
